@@ -1,4 +1,4 @@
-# Perform-Exploratory-Data-Analysis-on-dataset-SampleSuperstore-
+# Exploratory Data Analysis on Dataset of Sample Superstore
 
 Exploratory Data Analysis (EDA) is a crucial first step in the data analysis process. It involves the exploration, visualization, and understanding of the dataset to gain insights, identify patterns, and detect anomalies. In this case, we will perform EDA on the "SampleSuperstore" dataset to better understand the data related to a fictional superstore's sales and profits.
 
